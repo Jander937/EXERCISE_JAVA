@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+num_M
+1
+0
+5
+num_F
+1
+0
+5
+total
+1
+0
+4
+1
+50
+'digite el numero de hombres que hay en el salon '
+5
+1
+5
+num_M
+4
+1
+50
+'digite el numero de mujeres que hay en el salon '
+5
+1
+5
+num_F
+6
+3
+5
+total
+13
+num_M + num_F
+12
+porcentaje_M
+15
+num_M*100/total
+12
+porcentaje_F
+15
+num_F*100/total
+4
+1
+97
+'el porcentaje de hombres es ', porcentaje_M,'%; y el porcentaje de mujeres es', porcentaje_F,'%'
+1
